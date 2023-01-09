@@ -1,6 +1,6 @@
 namespace Dinca_Maria_Lab11;
 
-public partial class ListEntryPage : ContentPage
+public partial class ListEntryPage 
 {
     public ListEntryPage()
     {
